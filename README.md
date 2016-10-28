@@ -1,2 +1,5 @@
 # alxliv.github.io
-my main site
+## it is my main site
+Under construction
+
+## Here is my [blog](https://alxliv.github.io/blog/)
